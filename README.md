@@ -99,6 +99,6 @@ python mainlp.py
 
 ## Thesis / PDF
 
-Die Bachelorarbeit (PDF) liegt im Repo unter:
+Die Bachelorarbeit (PDF) liegt im Repo unter \docs:
 
 [📄 Bachelorarbeit (PDF)](docs/Bachelorarbeit.pdf)
