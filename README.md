@@ -10,11 +10,10 @@ Dieses Repository enthält die Python-Implementierung des in **Kapitel 3** meine
 
 Wir betrachten LPs in Standardform
 
-> min cᵀx  s.t.  Ax = b,  x ≥ 0
+> min cᵀx  s.t.  Ax = b,  x ≥ 0.
 
-mit Dualvariablen λ und Slacks s. Über zentrale Pfadbedingungen (µ > 0) und eine geglättete
-Komplementaritätsfunktion Φ(x,s,µ) wird ein nichtlineares Gleichungssystem F(x,λ,s,µ)=0 formuliert,
-das iterativ via **Predictor/Corrector**-Schritten und **Backtracking** gelöst wird.
+Über zentrale Pfadbedingungen und eine geglättete Komplementaritätsfunktion Φ(x,s,µ) wird ein 
+nichtlineares Gleichungssystem F(x,λ,s,µ)=0 formuliert, das iterativ via **Prädiktor/Korrektor**-Schritte und **Backtracking** gelöst wird.
 
 ---
 
