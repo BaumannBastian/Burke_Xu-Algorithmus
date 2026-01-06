@@ -13,7 +13,7 @@ Wir betrachten LPs in Standardform
 > min cᵀx  s.t.  Ax = b,  x ≥ 0.
 
 Über zentrale Pfadbedingungen und eine geglättete Komplementaritätsfunktion Φ(x,s,µ) wird ein 
-nichtlineares Gleichungssystem F(x,λ,s,µ)=0 formuliert, das iterativ via **Prädiktor/Korrektor**-Schritte und **Backtracking** gelöst wird.
+nichtlineares Gleichungssystem F(x,λ,s,µ)=0 formuliert, das iterativ via **Prädiktor/Korrektor**-Schritten und **Backtracking** gelöst wird.
 
 ---
 
