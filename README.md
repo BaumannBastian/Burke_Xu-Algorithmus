@@ -101,10 +101,4 @@ python mainlp.py
 
 Die Bachelorarbeit (PDF) liegt im Repo unter:
 
-- `docs/Bachelorarbeit.pdf`
-
----
-
-## Lizenz
-
-Noch nicht festgelegt (TBD).
+[📄 Bachelorarbeit (PDF)](docs/Bachelorarbeit.pdf)
